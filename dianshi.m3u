@@ -1,4 +1,5 @@
 #EXTM3U
+#央视
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://117.174.81.63:50080/newlive/live/hls/1/live.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
@@ -39,6 +40,8 @@ http://110.72.45.186:8088/tsfile/live/0019_1.m3u8
 http://110.72.35.15:8088/tsfile/live/1085_1.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="央视",CETV-4
 http://111.225.92.50:8800/hls/96/index.m3u8
+
+#卫视
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视高清
 http://117.174.81.63:50080/newlive/live/hls/19/live.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视高清
@@ -117,6 +120,8 @@ http://111.225.92.50:8800/hls/63/index.m3u8
 http://111.225.92.50:8800/hls/70/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",CCEV-中学生
 http://111.225.92.50:8800/hls/94/index.m3u8
+
+#地方
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
 http://36.129.204.122:50001/hls/60/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="地方",生活时尚高清
@@ -175,6 +180,8 @@ http://111.225.92.50:8800/hls/22/index.m3u8
 http://111.225.92.50:8800/hls/23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",军事
 http://117.174.81.63:50080/newlive/live/hls/47/live.m3u8
+
+#港澳台
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
@@ -209,8 +216,12 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
+
+#境外
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外",今日俄罗斯
 http://117.174.81.63:50080/newlive/live/hls/54/live.m3u8
+
+#百视TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百视TV",百视TV1
 https://bp-caster.bestv.com.cn/954/3/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百视TV",百视TV2
