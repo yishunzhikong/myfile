@@ -135,7 +135,7 @@ http://117.174.81.63:50080/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",风云足球
 http://111.225.92.50:8800/hls/68/index.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
-http://113.86.205.10:8090/hls/503/index.m3u8
+http://110.72.35.15:8088/tsfile/live/1049_1.m3u8
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方",风云音乐
 http://111.225.92.50:8800/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",CCTV第一剧场
@@ -152,8 +152,6 @@ http://111.225.92.50:8800/hls/71/index.m3u8
 http://36.129.204.122:50001/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫秀场高清
 http://36.129.204.122:50001/hls/70/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",都市剧场高清
-http://36.129.204.122:50001/hls/72/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州-1
 http://111.225.92.50:8800/hls/102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",沧州-2
