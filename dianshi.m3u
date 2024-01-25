@@ -213,8 +213,6 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",点掌财经
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Channel[V]
-http://110.72.67.13:808/hls/64/index.m3u8
 
 
 #境外
