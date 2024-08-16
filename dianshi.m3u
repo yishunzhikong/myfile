@@ -5,9 +5,9 @@
 
 #地方
 #EXTINF:-1 group-title="阿坝州",新闻综合频道
-https://dcpull.sctvcloud.com/live/522fab2601881000cd142f2900000000/playlist.m3u8
+https://apppull.aba-news.com.cn/live/be5325350190100009f6751d00000000/playlist.m3u8
 #EXTINF:-1 group-title="阿坝州",藏语综合频道
-https://dcpull.sctvcloud.com/live/52304cbd0188100059040d3700000000/playlist.m3u8
+https://apppull.aba-news.com.cn/live/be57fb5401901000b611a82100000000/playlist.m3u8
 #EXTINF:-1 group-title="阿坝州",汶川综合频道
 http://live.iwcmt.cn:90/live/zhxw.m3u8
 #EXTINF:-1 group-title="阿坝州",茂县综合频道
@@ -26,6 +26,7 @@ http://live.sctvcloud.com/live/jiuzhai.m3u8
 http://live.zmmek.com:90/live/zhxw.m3u8
 #EXTINF:-1 group-title="阿坝州",小金综合频道
 http://xjlive.xjsc.gov.cn:8091/live/xwpd.m3u8
+
 
 #港澳台
 
